@@ -1,4 +1,5 @@
-## Hi there 👋
+ola, meu nome e lavinia, tenho 16 ano. 
+aqui postarei meus projetos etc👋
 
 <!--
 **laviniamoura/laviniamoura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
